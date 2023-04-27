@@ -1,6 +1,5 @@
 package com.devsuperior.bds02.controllers.exceptions;
 
-import com.devsuperior.bds02.controllers.exceptions.StandardErrorBodyController;
 import com.devsuperior.bds02.services.exceptions.DataBaseException;
 import com.devsuperior.bds02.services.exceptions.ResourceNotFoundException;
 import org.springframework.http.HttpStatus;
